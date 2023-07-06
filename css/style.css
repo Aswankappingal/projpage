@@ -1,0 +1,87 @@
+.sub{
+    background-image: url(../images/pexels-spencer-lind-1331750.jpg);
+    background-position: center;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: aliceblue;
+    text-align: center;
+    padding: 100px;
+}
+.main{
+    margin: -10px;
+}
+.heading{
+   font-size: 50px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   letter-spacing: 7px;
+   color: white;
+   
+}
+.para{
+    text-align: justify;
+    color: white;
+    
+} 
+
+.btn{
+    background-color: transparent;
+    border: 3px solid white;
+    color: black;
+    padding: 8px 26px;
+    margin-top: 40px;
+    border-radius: 6px;
+}
+.heading-two{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    letter-spacing: 5px;
+}
+.images{
+    text-align: center; 
+
+}
+
+.one{
+    width: 22.5%;
+    height: 250px;
+    padding: 2px;
+    border: 1px solid black;
+
+}
+.two{
+    width: 22.5%;
+    height: 250px;
+    padding: 2px;
+    border: 1px solid black;
+}
+.three{
+    width: 22.5%;
+    height: 250px;
+    padding: 2px;
+    border: 1px solid black;
+}
+.four{
+    width: 22.5%;
+    height: 250px;
+    padding: 2px;
+    border: 1px solid black;
+}
+.second-para{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding: 20px 20px 20px;
+
+}
+.contact{
+    text-align: center;
+}  
+.contact a{
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 5px 10px ;
+    color: black;
+    background-color: transparent;
+}
+ 
